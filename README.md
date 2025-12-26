@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Computer Application undergraduate with a strong interest in Data Analytics, Generative AI, and Software Engineering. Skilled in Python, R, HTML, CSS, and JavaScript, with hands-on exposure through industry-recognized job simulations by Tata and Accenture.</h3>
+<h2 align="left">👩‍💻  Computer Application undergraduate with a strong interest in Data Analytics, Generative AI, and Software Engineering. Skilled in Python, R, HTML, CSS, and JavaScript, with hands-on exposure through industry-recognized job simulations by Tata and Accenture.</h2>
 
 ###
 
