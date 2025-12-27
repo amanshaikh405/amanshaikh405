@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Aman Daftarband
-**A passionate Dedicated || FullStack || Fresher || Gamer || coder**
+**A Passionate Dedicated || FullStack || Fresher || Gamer || Coder**
 
 Email Me 👉 ✉️ **amandaftarband@gmail.com** For Collaboration/Project or Anything Else. 😊😊
  
