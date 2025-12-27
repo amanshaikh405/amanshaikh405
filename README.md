@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **amandaftarband@gmail.com** For Collaboration/Project or A
  
 Potfoilio 👉 🔗  **https://tinyurl.com/amandaftarband**
 - 🔭 **I’m currently working on:** Smart Desktop Voice Assistant (Jarvis)
-- 🌱 **I’m currently learning:** Bachlore Of Computer Application.
+- 🌱 **I’m currently learning:** Bachlore Of Computer Application (VI).
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:** AMAN SHAIKH
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
