@@ -1,6 +1,4 @@
-# 💫 Hi 👋, I'm Aman Daftarband
-**A Passionate Dedicated || FullStack || Fresher || Gamer || Coder**
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aman%20Daftarband&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bahlore%20Of%20Computer%20Application&descSize=18&descAlignY=55&textBg=false"/>
 Email Me 👉 ✉️ **amandaftarband@gmail.com** For Collaboration/Project or Anything Else. 😊😊
  
 Potfoilio 👉 🔗  **https://tinyurl.com/amandaftarband**
@@ -14,8 +12,7 @@ Potfoilio 👉 🔗  **https://tinyurl.com/amandaftarband**
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_shaikh_405) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-daftarband) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aman_shaikh_405) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amandaftarband@gmail.com)
-
+<p align="center"><a href="https://www.linkedin.com/in/aman-daftarband/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/aman_Shaikh_405?t=XDH5P4pnsNdzbTRCOuZRlA&s=09" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/918788177013" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:amandaftarband@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://tinyurl.com/amandaftarband" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 
 # 💻 Tech Stack:
